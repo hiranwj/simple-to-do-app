@@ -1,0 +1,12 @@
+.item:hover {
+  background-color: lightgray;
+}
+
+.form-check *{
+  cursor: pointer;
+}
+
+.complete label{
+  text-decoration: line-through;
+  color: gray;
+}
